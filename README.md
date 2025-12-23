@@ -2,6 +2,7 @@
 
 AutoAnalytx is an intelligent data analytics agent that helps you analyze your data, create visualizations, and answer questions using natural language. It leverages Llama 3.2 (via LangChain/LangGraph) and supports multiple data sources.
 
+The deployed app here:  https://autoanalytx.streamlit.app/
 ## Features
 
 - **Interactive Chat Interface**: Ask questions about your data in plain English.
@@ -62,3 +63,4 @@ Access the app at `http://localhost:8501`.
 - **LLM**: Llama 3.2 (Groq)
 - **Data Tools**: Pandas, Plotly, Scikit-learn
 - **Database**: SQLAlchemy, TiDB/MySQL
+
